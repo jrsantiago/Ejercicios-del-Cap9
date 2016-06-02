@@ -1,0 +1,14 @@
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\bin\Debug\EstructurasEnumeraciones.exe.config
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\bin\Debug\EstructurasEnumeraciones.exe
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\bin\Debug\EstructurasEnumeraciones.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.Form1.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.ProductoTienda.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.Properties.Resources.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.csproj.GenerateResource.Cache
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.exe
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.CuentaBancaria.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.MascotaDueno.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.Neumaticos.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\EstructurasEnumeraciones\EstructurasEnumeraciones\obj\Debug\EstructurasEnumeraciones.TiposEstrellas.resources
